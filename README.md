@@ -1,5 +1,7 @@
 # LoRaDiMe
 
+see also: https://github.com/carlobiermann/lora-mesh
+
 TODO: 
 - refactor code (get rid of global variables)
 - enable network ids
